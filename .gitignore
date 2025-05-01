@@ -61,6 +61,10 @@ Temporary Items
 /modules/**
 !/modules/default
 !/modules/default/**
+!/modules/MMM-Hevy
+!/modules/MMM-Hevy/**
+!/modules/MMM-GoogleCalendar2
+!/modules/MMM-GoogleCalendar2/**
 !/modules/README.md**
 
 # Ignore changes to the custom css files but keep the sample and main.

@@ -1,5 +1,45 @@
 # ![MagicMirror²: The open source modular smart mirror platform.](.github/header.png)
 
+TODO
+https://github.com/themox/MMM-Oura2
+https://github.com/erchenger/MMM-Oura
+https://github.com/fry0815/MMM-GoogleFit
+https://github.com/Tuxdiver/MMM-Rest
+https://github.com/cure/MMM-NextEvent
+https://github.com/zuo000/MMM-HomeAssistant
+https://github.com/delightedCrow/MMM-HabiticaStats
+https://github.com/Rallymen007/camera
+https://github.com/heskja/MMM-CalendarWeek
+https://github.com/MMM-CalendarExt2/MMM-CalendarExtPlan
+https://github.com/MMM-CalendarExt2/MMM-CalendarExtMinimonth
+https://github.com/MMM-CalendarExt2/MMM-CalendarExtTimeline
+https://github.com/MMRIZE/MMM-CalendarExt3Timeline
+https://github.com/MMRIZE/MMM-CalendarExt3Journal
+https://github.com/MMRIZE/MMM-CalendarExt3Agenda
+https://github.com/MMRIZE/MMM-CalendarExt3
+https://github.com/MMM-CalendarExt2/MMM-CalendarExt2
+https://github.com/amitchone/MMM-birthdays
+https://github.com/0m4r/MMM-SoccerLiveScore
+https://github.com/xadamxk/MMM-CHAMPIONSQUEUE-LEADERBOARD
+https://github.com/git-pesche/MMM-SwissSmartUrbanHeatMap
+https://github.com/martijndoes/MMM-GPollen
+https://github.com/raywo/MMM-GameOfLife
+https://github.com/teemoo7/MMM-AlplakesLiveTemperature
+https://github.com/mrdis/MMM-google-route
+https://github.com/uncleLem/MMM-Russianwarship
+https://github.com/pinsdorf/MMM-WeeklySchedule
+https://github.com/mihairinzis/MMM-wiki
+https://github.com/ryck/MMM-Year-Progress
+https://github.com/jalibu/MMM-Jast
+https://github.com/lavolp3/MMM-AVStock
+https://github.com/jeroenpeters1986/MMM-bitcoin-portfolio
+https://github.com/valmassoi/MMM-bitcoin
+https://github.com/jkschoen/MMM-Gitlab-MergeRequests
+https://github.com/MagicMirrorOrg/MagicMirror/wiki/3rd-Party-Modules#finance
+
+
+
+
 <p style="text-align: center">
   <a href="https://choosealicense.com/licenses/mit">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
